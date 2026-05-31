@@ -1,4 +1,3 @@
-README.md
 # Password Strength Analyzer
 
 ## Overview
@@ -8,8 +7,7 @@ This project helps users create secure passwords and improve cybersecurity aware
 
 ---
 
-# Features
-
+## Features
 - Check password length
 - Analyze password complexity
 - Detect uppercase and lowercase characters
@@ -22,7 +20,7 @@ This project helps users create secure passwords and improve cybersecurity aware
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - Python
 - Tkinter (GUI)
@@ -31,7 +29,7 @@ This project helps users create secure passwords and improve cybersecurity aware
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```bash
 Password-Strength-Analyzer/
@@ -40,7 +38,7 @@ Password-Strength-Analyzer/
 ├── README.md
 ```
 
-How It Works
+## How It Works
 
 The analyzer checks the following conditions:
 
@@ -65,7 +63,7 @@ Password: Hello@123
 Output
 Password Strength: STRONG
 
-Suggestions:
+## Suggestions:
 - Excellent Password! No improvements needed.
 GUI Preview Features
 Password input field
@@ -78,21 +76,18 @@ Password Hashing
 
 The application uses SHA-256 hashing to securely store previously used passwords.
 
-Password Reuse Prevention
-
+## Password Reuse Prevention
 Previously used passwords are detected and rejected for improved security.
 
-Advantages
-Easy to use
-Beginner-friendly project
-Enhances cybersecurity awareness
-Helps users create secure passwords
-Useful for authentication systems
+## Advantages
+- Easy to use
+- Beginner-friendly project
+- Enhances cybersecurity awareness
+- Helps users create secure passwords
+- Useful for authentication systems
 
-Author
+## Author
+Hansraj Jat
 
-Developed by: Hansraj Jat
-
-License
-
+## License
 This project is open-source and available under the MIT License.
